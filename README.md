@@ -1,5 +1,7 @@
 This Power BI project analyzes 15,000+ shipment records to uncover delay trends, return patterns, and customer experience insights across multiple regions, carriers, and shipment modes. It includes KPI tracking, delay reasons, SLA breach rates, return analysis, and cost-to-revenue correlation.
 
+<a href="https://shaguftapathan.github.io/PowerBI_Logistic_Shipments_Delay_Insights/">View Project</a>
+
 # <span style="color:#4a89c2; font-size:26px;"><b>Motivation</b></span>
 Logistics operations face rising challenges with on-time delivery, customer satisfaction, and return management. This project was initiated to uncover patterns in shipment delays, customer feedback, SLA breaches, and returns to optimize operational efficiency and enhance customer experience.
 
