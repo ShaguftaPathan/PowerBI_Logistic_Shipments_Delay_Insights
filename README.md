@@ -58,6 +58,6 @@ Correlate shipping cost and delay with customer satisfaction
 
 Monitor return trends and drive quality control for high-return categories like Apparel and Electronics
 
-# Client Feedback
+
 “The dashboard brought transparency to our logistics performance like never before. We’ve already acted on delay patterns and seen a 12% improvement in delivery time in Q1. The visuals are intuitive, and the story is data-driven and client-ready.”
-— Senior Operations Manager, Logistics Partner
+— Senior Operations Manager, Logistics Partner (Client feedback)
