@@ -29,11 +29,11 @@ Python - For EDA &tTo segment Customers (RFM)
 Key KPIs and visual insights derived:
 
 * 15K Total Shipments, $2M Revenue, Avg Delay: 0.7 days
-* 22.2% of shipments were delayed, with Custom Hold and Traffic being major reasons
+* 22.2% of shipments were delayed, with Weather and Traffic being major reasons
 
  ![](/Images/1.png)
  
-* SLA Breach Rate: 7.37% — mostly concentrated in Express and Same-Day modes
+* SLA Breach Rate: 7.37% — mostly concentrated in Standard and Express modes
 * Avg Shipping Cost: $154.43 USD
 * Return Rate: 8.3% — driven largely by "Damaged" and "Wrong Product" issues
 * Delay concentration by region: North (31.3%), South (24.23%), East (21.65%)
@@ -45,7 +45,7 @@ Key KPIs and visual insights derived:
 
  ![](/Images/3.png)
 
- <a href="https://github.com/ShaguftaPathan/PowerBI_Logistic_Shipments_Delay_Insights/blob/main/Logistics_Shipment.pdf">View DAshboard!</a>
+ <a href="https://github.com/ShaguftaPathan/PowerBI_Logistic_Shipments_Delay_Insights/blob/main/Logistics_Shipment.pdf">View Dashboard!</a>
  
 # <span style="color:#4a89c2; font-size:26px;"><b>Conclusion</b></span>
 This Power BI dashboard provided actionable insights that helped stakeholders:
@@ -60,4 +60,4 @@ Monitor return trends and drive quality control for high-return categories like 
 
 
 “The dashboard brought transparency to our logistics performance like never before. We’ve already acted on delay patterns and seen a 12% improvement in delivery time in Q1. The visuals are intuitive, and the story is data-driven and client-ready.”
-— Senior Operations Manager, Logistics Partner (Client feedback)
+— **Client feedback**
